@@ -1,8 +1,19 @@
-body {
-    font: arial;
-    background-color: rgb(185, 179, 175);
+.bg-color1{
+    background-color: rgb(202, 29, 73);
 }
 
-h1 {
-    color: rgb(255, 255, 255);
+.left{
+    position:absolute;
+    left: 97px;
+    width:300px;
+}
+
+.left2{
+    position:absolute;
+    left: 560px;
+    width: 300px;
+}
+
+table {
+    border-collapse: collapse;
 }
